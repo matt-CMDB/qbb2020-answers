@@ -1,0 +1,16 @@
+- "left reads":
+  - "/Users/cmdb/qbb2020-answers/qb1-week1/asm/corrected/frag180.1.00.0_0.cor.fastq.gz"
+  "orientation": "fr"
+  "right reads":
+  - "/Users/cmdb/qbb2020-answers/qb1-week1/asm/corrected/frag180.2.00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/Users/cmdb/qbb2020-answers/qb1-week1/asm/corrected/frag180._unpaired.00.0_0.cor.fastq.gz"
+  "type": "paired-end"
+- "left reads":
+  - "/Users/cmdb/qbb2020-answers/qb1-week1/asm/corrected/jump2k.1.00.1_0.cor.fastq.gz"
+  "orientation": "rf"
+  "right reads":
+  - "/Users/cmdb/qbb2020-answers/qb1-week1/asm/corrected/jump2k.2.00.1_0.cor.fastq.gz"
+  "single reads":
+  - "/Users/cmdb/qbb2020-answers/qb1-week1/asm/corrected/jump2k._unpaired.00.1_0.cor.fastq.gz"
+  "type": "mate-pairs"
